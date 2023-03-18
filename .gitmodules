@@ -1,0 +1,9 @@
+[submodule "CashierAppC"]
+	path = CashierAppC
+	url = git@github.com:borednuna/CashierAppC.git
+[submodule "Bertiga_AADS"]
+	path = Bertiga_AADS
+	url = git@github.com:borednuna/Bertiga_AADS.git
+[submodule "Decision-Tree-Final-Project"]
+	path = Decision-Tree-Final-Project
+	url = git@github.com:borednuna/Decision-Tree-Final-Project.git
